@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: puttugubbi/jhooq-docker-demo
+          image: puttugubbi/jhooq-docker-demo:jhooq-docker-demo
 
           resources:
             requests:
